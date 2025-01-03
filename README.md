@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project focuses on building a **Smart Home Automation System** that enhances convenience, safety, and energy efficiency. It integrates sensors and automation technology to optimize the use of electricity, reduce manual effort, and improve the overall user experience. 
+![WhatsApp Image 2025-01-03 at 13 38 34_37a7b6d2](https://github.com/user-attachments/assets/8fb27b32-abcf-4fd6-ab9c-9a27865603d8)
 
 ## Key Features
 
@@ -66,6 +67,7 @@ This project focuses on building a **Smart Home Automation System** that enhance
 ## Conclusion
 This **Smart Home Automation System** provides a modern, energy-efficient, and user-friendly solution for home management. By automating key aspects of daily life, it reduces electricity costs, enhances safety, and offers unparalleled convenience.
 
+
 ---
 
 ## Example Code
@@ -127,4 +129,5 @@ void loop() {
   delay(500);
 }
 ```
+![WhatsApp Image 2025-01-03 at 13 38 34_f3c6198c](https://github.com/user-attachments/assets/c3a37ae9-2eb4-49d2-9bb9-2b9ec89a4dc9)
 
